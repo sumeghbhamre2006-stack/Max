@@ -1,3 +1,8 @@
+/*Geometrical Shapes Area calculator  
+Define the base class Shape with two data members of any numeric type that are employed to compute the area of respective shape.
+Add member functions to input the data members values and display the area in base class only. Derive two classes from base class
+namely, Triangle &  Rectangle. Take the display function as virtual in base class and redefine it in the derived classes. Using above
+classes , write a program to accept parameters for triangle or rectangle and display the area Using Virtual Functions.*/
 #include <iostream>
 #include <string>
 using namespace std;
