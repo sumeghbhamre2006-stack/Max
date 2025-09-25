@@ -1,3 +1,8 @@
+/*Educational Institution System 
+Design an educational Institution that maintains a database of all staff members where the database is segregated into a number of
+classes having hierarchical relationships. Define all classes with suitable data members and required member functions to build the 
+database and fetch individual details . */
+
 #include <iostream>
 using namespace std;
 
