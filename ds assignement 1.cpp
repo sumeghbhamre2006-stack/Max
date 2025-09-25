@@ -1,3 +1,10 @@
+/*Rainfall Tracking:
+Write a program to track rainfall data for 3 cities over 4 months. Using a 2D array, we can store the data, calculate the average rainfall for each city,
+and display the rainfall data in a tabular format.
+OR
+Temperature Tracker:
+Write a program for Tracking daily temperatures of 3 cities for a week . The program calculates the average temperature for each day and for the week.*/
+
 #include<stdio.h>
 int main(){
 float rainfall[3][4];
