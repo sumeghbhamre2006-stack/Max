@@ -1,3 +1,8 @@
+/*Simple Task Scheduler:
+Write a program that implements a simple task scheduler using a singly linked list. Each node in the linked list represents a
+task with its priority and execution time. Tasks are scheduled based on their priority, with higher priority tasks being executed
+first.*/
+
 #include <iostream>
 using namespace std;
 class Node {
